@@ -2,7 +2,7 @@
 <h3 align="center">🎓 AI & ML Engineer | 📊 Aspiring Data Analyst | 🤖 ML & Automation Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C896&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+ML+Engineer;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;Building+AI-Powered+Solutions;Turning+Data+into+Decisions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C896&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+ML+Engineer;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;Building+AI-Powered+Solutions;Turning+Data+into+Decisions" alt="Typing SVG" />
 </p>
 
 ---
@@ -11,14 +11,14 @@
 
 ```python
 venkatesh = {
-    "name"      : "Gadige Venkatesh",
-    "location"  : "Hyderabad, India 🇮🇳",
-    "education" : "B.Tech – AI & ML @ J.B. University (2022–2026)",
-    "working_on": "Mastering Excel, Power BI & SQL for Data Analytics",
+    "name"       : "Gadige Venkatesh",
+    "location"   : "Hyderabad, India",
+    "education"  : "B.Tech - AI & ML @ J.B. University (2022-2026)",
+    "working_on" : "Mastering Excel, Power BI & SQL for Data Analytics",
     "collaborate": "Data Analytics, ML, and AI Automation projects",
-    "learning"  : "RAG Pipelines, LLM Integration & Advanced SQL",
-    "ask_me"    : "Python, Pandas, Scikit-learn, Power BI, Tableau, ML Models",
-    "fun_fact"  : "Boosted a model's accuracy from 72% → 85% with just feature engineering 🚀"
+    "learning"   : "RAG Pipelines, LLM Integration & Advanced SQL",
+    "ask_me"     : "Python, Pandas, Scikit-learn, Power BI, Tableau, ML Models",
+    "fun_fact"   : "Boosted a model accuracy from 72% to 85% with just feature engineering!"
 }
 ```
 
@@ -59,21 +59,21 @@ venkatesh = {
 | Project | Description | Tech |
 |---|---|---|
 | 🔫 [Real-Time Weapon Detection](https://github.com/VENKATESH7569) | Computer vision system achieving **95% mAP** | YOLOv12, Flask, Angular |
-| 🚀 [AI Startup Evaluator](https://github.com/VENKATESH7569) | Predicts startup success – accuracy improved from **72% → 85%** | Python, Scikit-learn, Flask |
+| 🚀 [AI Startup Evaluator](https://github.com/VENKATESH7569) | Predicts startup success - accuracy improved from **72% to 85%** | Python, Scikit-learn, Flask |
 | 📧 [Email Spam Filter](https://github.com/VENKATESH7569/EMAIL-SPAM-FILTERING) | NLP-based spam classifier using TF-IDF + Random Forest | Python, Scikit-learn, NLP |
 | 📉 [Customer Churn Prediction](https://github.com/VENKATESH7569/CHURN-PREDCTION) | ML pipeline on Telco churn dataset | Python, Pandas, Scikit-learn |
 | 🌾 [Crop Recommendation System](https://github.com/VENKATESH7569/Crop-recommendation-system) | ML-based smart crop recommendations | Python, ML |
 | 🏠 [House Price Prediction](https://github.com/VENKATESH7569/HOUSE-PRICE-PREDCTION) | Regression model for real estate pricing | Python, Regression |
-| 🧾 [Invoice Intelligence Bot](https://github.com/VENKATESH7569/INVOICE-INTELLIGENCE-BOT-) | AI bot that extracts & summarizes invoices for finance teams | Python, NLP, HTML |
+| 🧾 [Invoice Intelligence Bot](https://github.com/VENKATESH7569/INVOICE-INTELLIGENCE-BOT-) | AI bot that extracts and summarizes invoices for finance teams | Python, NLP, HTML |
 
 ---
 
 ## 💼 Experience
 
-🏢 **Data Analyst & AI Automation Intern** @ Netfotech Solutions *(Sep – Dec 2024)*
+🏢 **Data Analyst & AI Automation Intern** @ Netfotech Solutions *(Sep 2024 – Dec 2024)*
 > Built RAG pipelines with Langflow, automated CRM workflows with n8n, reduced manual effort by **40%**
 
-🏢 **Data Science Intern** @ Techno Hacks *(Sep – Oct 2024)*
+🏢 **Data Science Intern** @ Techno Hacks *(Sep 2024 – Oct 2024)*
 > EDA on large datasets, built ML models with **90% accuracy**, built Tableau KPI dashboards
 
 ---
@@ -86,7 +86,7 @@ venkatesh = {
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VENKATESH7569&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://streak-stats.demolab.com/?user=VENKATESH7569&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
 ---
@@ -111,4 +111,4 @@ venkatesh = {
   <img src="https://komarev.com/ghpvc/?username=VENKATESH7569&label=Profile%20Views&color=00C896&style=flat" alt="profile views" />
 </p>
 
-<p align="center">⭐ <i>If you find my projects useful, consider giving them a star!</i> ⭐</p>
+<p align="center">⭐ If you find my projects useful, consider giving them a star! ⭐</p>
